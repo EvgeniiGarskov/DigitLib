@@ -17,33 +17,35 @@
 3. **Список читателей**:
     - Страница с полным списком всех читателей (каждый читатель кликабельный, переход на страницу читателя).
 
-    <details>
-    [![Index People][1]][1]
-    [1]: https://github.com/user-attachments/assets/e7e5fc70-824f-4914-9a6c-62dbcd7c1eef
-    </details>
-    
-4. **Список книг**:
+    ![Index People](https://github.com/user-attachments/assets/05de7876-8bf3-4898-82dd-f84efaf1aae3)
+
+5. **Список книг**:
     - Страница с полным списком всех книг (каждая книга кликабельная, переход на страницу книги).
    
-    ![Index Books](https://github.com/user-attachments/assets/224f82f4-7a92-49e3-9949-bfaed3405597)
-    
-5. **Страница читателя**:
+    ![Index Books](https://github.com/user-attachments/assets/7cd9cd9e-35e2-4bcf-8ec1-e12035908a7c)
+
+7. **Страница читателя**:
     - Отображает данные читателя и список книг, которые он взял. Если книги отсутствуют, выводится сообщение: "Человек пока не взял ни одной книги".
    
-    ![Show people](https://github.com/user-attachments/assets/8a70a8fc-ec7c-474c-a646-e9b680804a32)
+    ![Show person1](https://github.com/user-attachments/assets/869e120f-fa53-4991-bd22-4220db9a2e51)
 
-6. **Страница книги**:
+    ![Show person](https://github.com/user-attachments/assets/73221e55-b846-4581-8102-36616124bd4c)
+
+9. **Страница книги**:
     - Показывает данные книги и имя читателя, который ее взял. Если книга свободна, отображается сообщение: "Эта книга свободна".
    
-    ![Show book](https://github.com/user-attachments/assets/60d987e4-12e6-4f66-8482-bd5c930e7bb8)
-    
-7. **Освобождение книги**:
+    ![Show book](https://github.com/user-attachments/assets/b1a37d77-a14f-471e-ae21-687aafa39587)
+
+    ![Show book1](https://github.com/user-attachments/assets/0d454d17-38ec-43f4-b112-100acdc2bd5e)
+
+10. **Освобождение книги**:
     - Если книга взята, рядом с именем читателя кнопка "Освободить книгу". Библиотекарь использует эту кнопку, чтобы вернуть книгу в библиотеку.
     
-8. **Назначение книги**:
+11. **Назначение книги**:
     - Если книга свободна, предоставляется выпадающий список с читателями и кнопка "Назначить книгу". После нажатия на кнопку книга назначается выбранному читателю.
    
-    ![Show book2](https://github.com/user-attachments/assets/408edfb8-5825-4ae8-ac25-5a4302a5693b)
+    ![Show book2](https://github.com/user-attachments/assets/95dfc507-7b73-49ea-ab88-cd0ce14288de)
+
 
 ## Технологии
 
