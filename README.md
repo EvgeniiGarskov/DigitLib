@@ -18,7 +18,8 @@
     - Страница с полным списком всех читателей (каждый читатель кликабельный, переход на страницу читателя).
 
     <details>
-    ![Index People](https://github.com/user-attachments/assets/e7e5fc70-824f-4914-9a6c-62dbcd7c1eef)
+    [![Index People][1]][1]
+    [1]: (https://github.com/user-attachments/assets/e7e5fc70-824f-4914-9a6c-62dbcd7c1eef)
     </details>
     
 4. **Список книг**:
